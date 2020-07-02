@@ -6,7 +6,7 @@ This is a work in progress. Current supported methods are listed in the Usage se
 ## Usage
 
 ```
-const Spoke = require('@trevorspecht/node-spoke');
+const Spoke = require('@trevorspecht/askspoke-sdk-node');
 const spoke = new Spoke('ASKSPOKE_API_TOKEN');
 
 const request = await spoke.getRequest(<request ID>);
