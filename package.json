@@ -1,0 +1,30 @@
+{
+  "name": "askspoke-sdk-node",
+  "version": "0.1.0",
+  "description": "A node.js SDK for the askSpoke API",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trevorspecht/askspoke-sdk-node.git"
+  },
+  "keywords": [
+    "askSpoke"
+  ],
+  "author": "Trevor Specht",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trevorspecht/askspoke-sdk-node/issues"
+  },
+  "homepage": "https://github.com/trevorspecht/askspoke-sdk-node#readme",
+  "dependencies": {
+    "got": "^11.3.0"
+  }
+}

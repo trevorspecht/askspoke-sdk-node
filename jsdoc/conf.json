@@ -1,0 +1,9 @@
+{
+    "plugins": ["plugins/markdown"],
+    "source": {
+        "include": ["README.md", "./lib/askspoke.js", "changelog.md"]
+    },
+    "opts": {
+        "destination": "./docs/"
+    }
+}
